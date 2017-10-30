@@ -1,0 +1,22 @@
+body{
+  background-color:yellow;
+  color: orange;
+  padding: 20px;
+  font-family: Arial, Verdana, sans-serif;
+}
+
+h1,h2{
+  background-color:#ffff5b;
+  color:#ffbd5b;
+  padding: inherit;
+}
+.crying{
+max-width: 100%;
+    height: auto;
+}
+.pizza
+{
+border:2px solid#665544;
+padding:inherit;
+background-color:#efefef;
+}
